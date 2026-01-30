@@ -1,13 +1,13 @@
 # Blockchain-Based-Drug-Supply-Chain-Counterfeit-Medicine-Prevention-System
 A blockchain-powered drug supply chain platform that prevents counterfeit medicines by enabling end-to-end batch traceability from manufacturer to consumer. Uses Hyperledger/Ethereum, QR verification, and AI-based anomaly detection to ensure authenticity, transparency, and regulatory compliance.
 
-# 🧬 Blockchain-Based Drug Supply Chain & Counterfeit Medicine Prevention System
+# Blockchain-Based Drug Supply Chain & Counterfeit Medicine Prevention System
 
 A **blockchain-powered, AI-enabled drug traceability platform** designed to eliminate counterfeit and substandard medicines by ensuring **end-to-end transparency, authenticity, and regulatory control** across the pharmaceutical supply chain.
 
 ---
 
-## 🚨 Problem Statement
+## Problem Statement
 
 Counterfeit and substandard medicines pose a serious threat to public health, particularly in large and complex pharmaceutical supply chains.  
 Key challenges include:
@@ -18,7 +18,7 @@ Key challenges include:
 
 ---
 
-## 💡 Solution Overview
+## 💡Solution Overview
 
 This project introduces a **permissioned blockchain-based supply chain system** integrated with **AI-driven anomaly detection and computer vision** to track, verify, and authenticate medicines at every stage of their lifecycle.
 
@@ -27,7 +27,7 @@ AI models continuously monitor the system to detect suspicious behavior, while Q
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ### 🔗 Blockchain Layer
 - Permissioned blockchain (Hyperledger Fabric)
@@ -51,7 +51,7 @@ AI models continuously monitor the system to detect suspicious behavior, while Q
 
 ---
 
-## 🔄 Supply Chain Workflow
+## Supply Chain Workflow
 
 1. Manufacturer registers a new medicine batch on the blockchain  
 2. QR/DataMatrix code generated and printed on packaging  
@@ -73,7 +73,7 @@ AI models continuously monitor the system to detect suspicious behavior, while Q
 
 ---
 
-## 🧠 AI Capabilities
+##  AI Capabilities
 
 ### Anomaly Detection
 - Route deviation detection
@@ -89,7 +89,7 @@ AI models continuously monitor the system to detect suspicious behavior, while Q
 
 ---
 
-## 🧰 Technology Stack
+## Technology Stack
 
 ### Blockchain
 - Hyperledger Fabric  
@@ -114,7 +114,7 @@ AI models continuously monitor the system to detect suspicious behavior, while Q
 
 ---
 
-## 👥 Stakeholders
+## Stakeholders
 
 - **Manufacturers:** Register and monitor medicine batches  
 - **Distributors & Warehouses:** Verify and log transfers  
@@ -124,7 +124,7 @@ AI models continuously monitor the system to detect suspicious behavior, while Q
 
 ---
 
-## 📊 Success Metrics
+## Success Metrics
 
 - 100% batch-level traceability  
 - Significant reduction in counterfeit incidents  
@@ -134,7 +134,7 @@ AI models continuously monitor the system to detect suspicious behavior, while Q
 
 ---
 
-## 🚀 Project Vision
+## Project Vision
 
 To build a **national-scale digital trust infrastructure** that makes counterfeit medicines **traceable, detectable, and economically unviable**, while strengthening public health and regulatory oversight.
 
@@ -150,7 +150,7 @@ To build a **national-scale digital trust infrastructure** that makes counterfei
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome!  
 Please open an issue or submit a pull request for improvements, bug fixes, or feature suggestions.
@@ -163,7 +163,7 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 - Open-source blockchain and AI communities  
 - Public health and pharmaceutical supply chain research initiatives  
