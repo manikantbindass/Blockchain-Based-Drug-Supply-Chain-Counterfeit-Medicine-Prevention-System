@@ -3,6 +3,8 @@ A blockchain-powered drug supply chain platform that prevents counterfeit medici
 
 # Blockchain-Based Drug Supply Chain & Counterfeit Medicine Prevention System
 
+![logo]![logo](https://github.com/manikantbindass/manikantbindass/blob/main/ChatGPT%20Image%20Apr%204%2C%202025%2C%2012_27_55%20AM.png))
+
 A **blockchain-powered, AI-enabled drug traceability platform** designed to eliminate counterfeit and substandard medicines by ensuring **end-to-end transparency, authenticity, and regulatory control** across the pharmaceutical supply chain.
 
 ---
