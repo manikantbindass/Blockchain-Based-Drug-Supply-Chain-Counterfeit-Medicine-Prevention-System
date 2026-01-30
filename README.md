@@ -1,7 +1,9 @@
 # Blockchain-Based-Drug-Supply-Chain-Counterfeit-Medicine-Prevention-System
 A blockchain-powered drug supply chain platform that prevents counterfeit medicines by enabling end-to-end batch traceability from manufacturer to consumer. Uses Hyperledger/Ethereum, QR verification, and AI-based anomaly detection to ensure authenticity, transparency, and regulatory compliance.
-
-# Blockchain-Based Drug Supply Chain & Counterfeit Medicine Prevention System
+## From factory to pharmacy, every pill tells the truth.
+## Blockchain locks authenticity.
+## AI hunts anomalies.
+## Counterfeit medicines stop here.
 
 ![logo](https://github.com/manikantbindass/Blockchain-Based-Drug-Supply-Chain-Counterfeit-Medicine-Prevention-System/blob/main/Blockchain%20Medicine%20and%20Counterfeit%20(2).png)
 
