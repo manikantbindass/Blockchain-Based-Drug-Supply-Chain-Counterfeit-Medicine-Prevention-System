@@ -171,4 +171,5 @@ This project is licensed under the **MIT License**.
 ## Acknowledgements
 
 - Open-source blockchain and AI communities  
-- Public health and pharmaceutical supply chain research initiatives  
+- Public health and pharmaceutical supply chain research initiatives
+- gh repo clone manikantbindass/Blockchain-Based-Drug-Supply-Chain-Counterfeit-Medicine-Prevention-System
